@@ -126,10 +126,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: auto;
 }
 
-.footer {
-    padding: var(--footer-padding);
-}
-
 .navbar-menu {
    float: right;
 }
@@ -198,6 +194,10 @@ ul.row {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
+}
+
+.footer {
+    padding: var(--footer-padding);
 }
 
 .footer-address {
