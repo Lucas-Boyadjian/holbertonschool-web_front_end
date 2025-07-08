@@ -126,6 +126,22 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: auto;
 }
 
+.footer {
+    padding: var(--footer-padding);
+}
+
+.footer-address {
+    color: var(--text-color);
+}
+
+.social-link {
+    display: block;
+}
+
+.social-link svg {
+    fill: var(--text-color);
+}
+
 .navbar-menu {
    float: right;
 }
@@ -194,20 +210,4 @@ ul.row {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
-}
-
-.footer {
-    padding: var(--footer-padding);
-}
-
-.footer-address {
-    color: var(--text-color);
-}
-
-.social-link {
-    display: block;
-}
-
-.social-link svg {
-    fill: var(--text-color);
 }
