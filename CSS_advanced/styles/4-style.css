@@ -17,7 +17,7 @@ body {
     color: var(--text-color);
 }
 
-.a {
+a {
     color: var(--text-color);
 }
 
