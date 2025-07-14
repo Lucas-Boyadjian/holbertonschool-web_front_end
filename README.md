@@ -1,4 +1,4 @@
-# Holbertonschool-web_front_end
+# holbertonschool-web_front_end
 
 This repository contains all the web front-end projects completed as part of the Holberton School curriculum. It covers advanced HTML and CSS concepts through practical, real-world exercises and projects.
 
