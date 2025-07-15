@@ -10,7 +10,6 @@ This project is part of the Holberton School curriculum and focuses on advanced 
 - [How to Use](#how-to-use)
 - [Learning Objectives](#learning-objectives)
 - [Author](#author)
-- [License](#license)
 
 ## Project Overview
 
